@@ -4,6 +4,10 @@ Previously, I received my B.E. degree in microelectronic science and engineering
 
 ## Publications
 
+[J1] [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778)<br>
+Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu and Jianli Chen<br>
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
+
 [C2] [Timing-Driven Placement for FPGAs with Heterogeneous Architectures and Clock Constraints](https://ieeexplore.ieee.org/document/9474054/)<br>
 Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu and Yao-Wen Chang<br>
 *2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)*
