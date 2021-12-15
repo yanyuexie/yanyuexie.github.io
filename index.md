@@ -4,16 +4,20 @@ Previously, I received my B.E. degree in microelectronic science and engineering
 
 ## Publications
 
+[J2] [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000)<br>
+Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+
 [J1] [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778)<br>
-Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu and Jianli Chen<br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
+Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
 
 [C2] [Timing-Driven Placement for FPGAs with Heterogeneous Architectures and Clock Constraints](https://ieeexplore.ieee.org/document/9474054/)<br>
-Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu and Yao-Wen Chang<br>
+Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu, and Yao-Wen Chang<br>
 *2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)*
 
 [C1] [Late Breaking Results: An Analytical Timing-Driven Placer for Heterogeneous FPGAs](https://ieeexplore.ieee.org/document/9218699/)<br>
-Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu and Jianli Chen<br>
+Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen<br>
 *2020 57th ACM/IEEE Design Automation Conference (DAC)*
 
 ## Awards
@@ -30,5 +34,3 @@ First Prize Scholarship, Fudan University, 2020
 <!-- /_/ \_\    |_|       |_|        `.'       \_____|    |_| \_____/ -->
 
 <!-- 献给那位吃饺子不吃馅的女孩 -->
-
-<!-- 2021.09.30 对不起，我错了，你不要不理我好不好 -->
