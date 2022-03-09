@@ -1,16 +1,12 @@
-Hi! I am currently a Ph.D. student at Northeastern University, advised by [Prof. Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include algorithm/hardware co-design, FPGAs, and electronic design automation.
+Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include algorithm/hardware co-design, FPGAs, and electronic design automation.
 
-Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with [Prof. Jinmei Lai](https://sme.fudan.edu.cn/60/0e/c31147a352270/page.htm), [Prof. Lei He](https://www.ee.ucla.edu/lei-he/), and [Prof. Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
+Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jinmei Lai](https://sme.fudan.edu.cn/60/0e/c31147a352270/page.htm), Prof. [Lei He](https://www.ee.ucla.edu/lei-he/), and Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
 
 ## Publications
 
-[J2] [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000)<br>
-Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
-
-[J1] [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778)<br>
-Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+[C3] TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation<br>
+Peiyan Dong, **Yanyue Xie**, Hongjia Li, Mengshu Sun, Olivia Chen, Nobuyuki Yoshikawa, and Yanzhi Wang<br>
+*2022 59th ACM/IEEE Design Automation Conference (DAC)*
 
 [C2] [Timing-Driven Placement for FPGAs with Heterogeneous Architectures and Clock Constraints](https://ieeexplore.ieee.org/document/9474054/)<br>
 Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu, and Yao-Wen Chang<br>
@@ -20,8 +16,17 @@ Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu, and Yao
 Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen<br>
 *2020 57th ACM/IEEE Design Automation Conference (DAC)*
 
+[J2] [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000)<br>
+Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+
+[J1] [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778)<br>
+Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+
 ## Awards
 
+DAC Young Fellow, Design Automation Conference, 2021<br>
 First Prize Scholarship, Fudan University, 2020
 
 
