@@ -4,6 +4,10 @@ Previously, I received my B.E. degree in microelectronic science and engineering
 
 ## Publications
 
+[C4] Late Breaking Results: FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization<br>
+Mengshu Sun, Zhengang Li, Alec Lu, Haoyu Ma, Geng Yuan, **Yanyue Xie**, Hao Tang, Yanyu Li, Miriam Leeser, Zhangyang Wang, Xue Lin, and Zhenman Fang<br>
+*2022 59th ACM/IEEE Design Automation Conference (DAC)*
+
 [C3] TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation<br>
 Peiyan Dong, **Yanyue Xie**, Hongjia Li, Mengshu Sun, Olivia Chen, Nobuyuki Yoshikawa, and Yanzhi Wang<br>
 *2022 59th ACM/IEEE Design Automation Conference (DAC)*
