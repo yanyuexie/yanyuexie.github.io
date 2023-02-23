@@ -1,18 +1,22 @@
 Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include algorithm/hardware co-design, FPGAs, and electronic design automation.
 
-Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jinmei Lai](https://sme.fudan.edu.cn/60/0e/c31147a352270/page.htm), Prof. [Lei He](https://www.ee.ucla.edu/lei-he/), and Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
+Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
 
 ## Publications
 
-[C5] Late Breaking Results: FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization<br>
-Mengshu Sun, Zhengang Li, Alec Lu, Haoyu Ma, Geng Yuan, **Yanyue Xie**, Hao Tang, Yanyu Li, Miriam Leeser, Zhangyang Wang, Xue Lin, and Zhenman Fang<br>
-*2022 59th ACM/IEEE Design Automation Conference (DAC)*
+[C6] [Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training](https://arxiv.org/abs/2211.10801)<br>
+Zhenglun Kong, Haoyu Ma, Geng Yuan, Mengshu Sun, **Yanyue Xie**, Peiyan Dong, Xin Meng, Xuan Shen, Hao Tang, Minghai Qin, Tianlong Chen, Xiaolong Ma, Xiaohui Xie, Zhangyang Wang, and Yanzhi Wang<br>
+*37th AAAI Conference on Artificial Intelligence (AAAI 2023)*
 
-[C4] Late Breaking Results: Hardware-Efficient Stochastic Rounding Unit Design for DNN Training<br>
-Sung-En Chang, Geng Yuan, Alec Lu, Mengshu Sun, Yanyu Li, Xiaolong Ma, Zhengang Li, **Yanyue Xie**, Minghai Qin, Xue Lin, Zhenman Fang, and Yanzhi Wang<br>
-*2022 59th ACM/IEEE Design Automation Conference (DAC)*
+[C5] [HeatViT: Hardware-efficient adaptive token pruning for vision transformers](https://arxiv.org/abs/2211.08110)<br>
+Peiyan Dong, Mengshu Sun, Alec Lu, **Yanyue Xie**, Kenneth Liu, Zhenglun Kong, Xin Meng, Zhengang Li, Xue Lin, Zhenman Fang, and Yanzhi Wang<br>
+*29th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)*
 
-[C3] TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation<br>
+[C4] [Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization](https://ieeexplore.ieee.org/document/10035108)<br>
+Zhengang Li, Mengshu Sun, Alec Lu, Haoyu Ma, Geng Yuan, **Yanyue Xie**, Hao Tang, Yanyu Li, Miriam Leeser, Zhangyang Wang, Xue Lin, and Zhenman Fang<br>
+*2022 32nd International Conference on Field-Programmable Logic and Applications (FPL)*
+
+[C3][ TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)<br>
 Peiyan Dong, **Yanyue Xie**, Hongjia Li, Mengshu Sun, Olivia Chen, Nobuyuki Yoshikawa, and Yanzhi Wang<br>
 *2022 59th ACM/IEEE Design Automation Conference (DAC)*
 
@@ -46,7 +50,7 @@ First Prize Scholarship, Fudan University, 2020
 <!--  / . \     | |       | |      `.   .'    | |____     | | /|__| | -->
 <!-- /_/ \_\    |_|       |_|        `.'       \_____|    |_| \_____/ -->
 <!--
-  _    _          _____  _______     __  ____ _____ _____ _______ _    _ _____      __     ___ 
+_    _          _____  _______     __  ____ _____ _____ _______ _    _ _____      __     ___
  | |  | |   /\   |  __ \|  __ \ \   / / |  _ \_   _|  __ \__   __| |  | |  __ \   /\\ \   / / |
  | |__| |  /  \  | |__) | |__) \ \_/ /  | |_) || | | |__) | | |  | |__| | |  | | /  \\ \_/ /| |
  |  __  | / /\ \ |  ___/|  ___/ \   /   |  _ < | | |  _  /  | |  |  __  | |  | |/ /\ \\   / | |
