@@ -2,6 +2,8 @@ Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. 
 
 Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
 
+**I am actively looking for a research internship opportunity for this summer! If you find my experiences and skills fit your team, please email me! Thank you!**
+
 ## Publications
 
 [C6] [Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training](https://arxiv.org/abs/2211.10801)<br>
