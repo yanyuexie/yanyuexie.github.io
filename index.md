@@ -1,12 +1,28 @@
-Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include algorithm/hardware co-design, FPGAs, and electronic design automation.
+Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include efficient deep learning (quantization and pruning), algorithm-hardware co-design, FPGAs, and electronic design automation.
 
 Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
 
 ## Publications
 
-[W1] SuperFlow: An RTL-to-GDS Design Automation Flow for AQFP Superconducting Devices<br>
-**Yanyue Xie**, Peiyan Dong, Geng Yuan, Zhengang Li, Chao Wu, Sung-En Chang, Xufeng Zhang, Olivia Chen, Nobuyuki Yoshikawa, and Yanzhi Wang<br>
-*2023 60th ACM/IEEE Design Automation Conference (DAC 2023)*
+[C13][Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers](https://www.sfu.ca/~zhenman/files/C36-ICS2024-Quasar-ViT.pdf)<br>
+Zhengang Li, Alec Lu, **Yanyue Xie**, Zhenglun Kong, Mengshu Sun, Hao Tang, Zhong Jia Xue, Peiyan Dong, Caiwen Ding, Yanzhi Wang, Xue Lin, and Zhenman Fang<br>
+*38th ACM International Conference on Supercomputing (ICS 2024)*
+
+[C12][SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://past.date-conference.com/proceedings-archive/2024/DATA/691_pdf_upload.pdf)<br>
+**Yanyue Xie**\*, Peiyan Dong\*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, and Yanzhi Wang<br>
+*2024 Design, Automation & Test in Europe Conference & Exhibition (DATE 2024)*
+
+[C11][SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices](https://arxiv.org/abs/2309.12212)<br>
+Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Masoud Zabihi, **Yanyue Xie**, Peiyan Dong, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, and Olivia Chen<br>
+*56th IEEE/ACM International Symposium on Microarchitecture (MICRO 2023)*
+
+[C10][Machine Learning Across Network-Connected FPGAs](https://ieee-hpec.org/wp-content/uploads/2023/09/50.pdf)<br>
+Dana Diaconu, **Yanyue Xie**, Mehmet Gungor, Suranga Handagala, Xue Lin, and Miriam Leeser<br>
+*2023 IEEE High Performance Extreme Computing Conference (HPEC 2023)*
+
+[C9][Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://ieeexplore.ieee.org/abstract/document/10247939)<br> 
+Zhengang Li\*, **Yanyue Xie**\*, Peiyan Dong\*, Olivia Chen, and Yanzhi Wang<br>
+*60th ACM/IEEE Design Automation Conference (DAC 2023)*
 
 [C8] [ESRU: Extremely Low-Bit and Hardware-Efficient Stochastic Rounding Unit Design for 8-Bit DNN Training](https://ieeexplore.ieee.org/document/10137222)<br>
 Sung-En Chang, Geng Yuan, Alec Lu, Mengshu Sun, Yanyu Li, Xiaolong Ma, Zhengang Li, **Yanyue Xie**, Minghai Qin, Xue Lin, Zhenman Fang, and Yanzhi Wang<br>
@@ -29,7 +45,7 @@ Zhengang Li, Mengshu Sun, Alec Lu, Haoyu Ma, Geng Yuan, **Yanyue Xie**, Hao Tang
 *2022 32nd International Conference on Field-Programmable Logic and Applications (FPL 2022)*
 
 [C3] [TAAS: A Timing-Aware Analytical Strategy for AQFP-Capable Placement Automation](https://dl.acm.org/doi/abs/10.1145/3489517.3530487)<br>
-Peiyan Dong, **Yanyue Xie**, Hongjia Li, Mengshu Sun, Olivia Chen, Nobuyuki Yoshikawa, and Yanzhi Wang<br>
+Peiyan Dong\*, **Yanyue Xie**\*, Hongjia Li\*, Mengshu Sun, Olivia Chen, Nobuyuki Yoshikawa, and Yanzhi Wang<br>
 *2022 59th ACM/IEEE Design Automation Conference (DAC 2022)*
 
 [C2] [Timing-Driven Placement for FPGAs with Heterogeneous Architectures and Clock Constraints](https://ieeexplore.ieee.org/document/9474054/)<br>
@@ -42,11 +58,19 @@ Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen<br>
 
 [J2] [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000)<br>
 Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022)*
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
 
 [J1] [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778)<br>
 Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022)*
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+
+[P2][HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression](https://arxiv.org/abs/2404.13372)<br>
+Lei Lu, **Yanyue Xie**, Wei Jiang, Wei Wang, Xue Lin, and Yanzhi Wang<br>
+*arXiv preprint arXiv:2404.13372*
+
+[P1][A Life-Cycle Energy and Inventory Analysis of Adiabatic Quantum-Flux-Parametron Circuits](https://arxiv.org/abs/2307.12216)<br>
+Masoud Zabihi, **Yanyue Xie**, Zhengang Li, Peiyan Dong, Geng Yuan, Olivia Chen, Massoud Pedram, and Yanzhi Wang<br>
+*arXiv preprint arXiv:2307.12216*
 
 ## Awards
 
