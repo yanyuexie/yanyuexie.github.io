@@ -58,11 +58,11 @@ Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen<br>
 
 [J2] [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000)<br>
 Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021)*
 
 [J1] [An Incremental Placement Flow for Advanced FPGAs with Timing Awareness](https://ieeexplore.ieee.org/document/9570778)<br>
 Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021, Early Access)*
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021)*
 
 [P2][HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression](https://arxiv.org/abs/2404.13372)<br>
 Lei Lu, **Yanyue Xie**, Wei Jiang, Wei Wang, Xue Lin, and Yanzhi Wang<br>
