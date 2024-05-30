@@ -4,6 +4,10 @@ Previously, I received my B.E. degree in microelectronic science and engineering
 
 ## Publications
 
+[C14] [SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGAs]()<br>
+Geng Yang, **Yanyue Xie**, Zhong Jia Xue, Sung-En Chang, Yanyu Li, Peiyan Dong, Jie Lei, Weiying Xie, Yanzhi Wang, Xue Lin, and Zhenman Fang <br>
+*34th International Conference on Field-Programmable Logic and Applications (FPL 2024)*
+
 [C13][Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers](https://www.sfu.ca/~zhenman/files/C36-ICS2024-Quasar-ViT.pdf)<br>
 Zhengang Li, Alec Lu, **Yanyue Xie**, Zhenglun Kong, Mengshu Sun, Hao Tang, Zhong Jia Xue, Peiyan Dong, Caiwen Ding, Yanzhi Wang, Xue Lin, and Zhenman Fang<br>
 *38th ACM International Conference on Supercomputing (ICS 2024)*
