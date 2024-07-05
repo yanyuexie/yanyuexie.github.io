@@ -4,7 +4,7 @@ Previously, I received my B.E. degree in microelectronic science and engineering
 
 ## Publications
 
-[C14] [SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGAs]()<br>
+[C14] [SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGAs](https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf)<br>
 Geng Yang, **Yanyue Xie**, Zhong Jia Xue, Sung-En Chang, Yanyu Li, Peiyan Dong, Jie Lei, Weiying Xie, Yanzhi Wang, Xue Lin, and Zhenman Fang <br>
 *34th International Conference on Field-Programmable Logic and Applications (FPL 2024)*
 
