@@ -2,29 +2,42 @@ Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. 
 
 Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
 
+## Experiences
+- ByteDance, CA, USA, 2024.05-2024.08<br>
+Research Intern in Seed Foundation Machine Learning System Team <br>
+Large language model pruning
+
+- Futurewei Technologies, CA, USA, 2023.05-2023.09<br>
+Research Intern in Strategy Technology Team<br>
+Efficient learned image compression model
+
 ## Publications
+
+[C15] [HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression](https://arxiv.org/abs/2404.13372)<br>
+Lei Lu, **Yanyue Xie**, Wei Jiang, Wei Wang, Xue Lin, and Yanzhi Wang<br>
+*32nd ACM Multimedia (ACMMM 2024)*
 
 [C14] [SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGAs](https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf)<br>
 Geng Yang, **Yanyue Xie**, Zhong Jia Xue, Sung-En Chang, Yanyu Li, Peiyan Dong, Jie Lei, Weiying Xie, Yanzhi Wang, Xue Lin, and Zhenman Fang <br>
 *34th International Conference on Field-Programmable Logic and Applications (FPL 2024)*
 
-[C13][Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers](https://www.sfu.ca/~zhenman/files/C36-ICS2024-Quasar-ViT.pdf)<br>
+[C13] [Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers](https://www.sfu.ca/~zhenman/files/C36-ICS2024-Quasar-ViT.pdf)<br>
 Zhengang Li, Alec Lu, **Yanyue Xie**, Zhenglun Kong, Mengshu Sun, Hao Tang, Zhong Jia Xue, Peiyan Dong, Caiwen Ding, Yanzhi Wang, Xue Lin, and Zhenman Fang<br>
 *38th ACM International Conference on Supercomputing (ICS 2024)*
 
-[C12][SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://past.date-conference.com/proceedings-archive/2024/DATA/691_pdf_upload.pdf)<br>
+[C12] [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://past.date-conference.com/proceedings-archive/2024/DATA/691_pdf_upload.pdf)<br>
 **Yanyue Xie**\*, Peiyan Dong\*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, and Yanzhi Wang<br>
 *2024 Design, Automation & Test in Europe Conference & Exhibition (DATE 2024)*
 
-[C11][SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices](https://arxiv.org/abs/2309.12212)<br>
+[C11] [SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices](https://arxiv.org/abs/2309.12212)<br>
 Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Masoud Zabihi, **Yanyue Xie**, Peiyan Dong, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, and Olivia Chen<br>
 *56th IEEE/ACM International Symposium on Microarchitecture (MICRO 2023)*
 
-[C10][Machine Learning Across Network-Connected FPGAs](https://ieee-hpec.org/wp-content/uploads/2023/09/50.pdf)<br>
+[C10] [Machine Learning Across Network-Connected FPGAs](https://ieee-hpec.org/wp-content/uploads/2023/09/50.pdf)<br>
 Dana Diaconu, **Yanyue Xie**, Mehmet Gungor, Suranga Handagala, Xue Lin, and Miriam Leeser<br>
 *2023 IEEE High Performance Extreme Computing Conference (HPEC 2023)*
 
-[C9][Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://ieeexplore.ieee.org/abstract/document/10247939)<br> 
+[C9] [Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration](https://ieeexplore.ieee.org/abstract/document/10247939)<br> 
 Zhengang Li\*, **Yanyue Xie**\*, Peiyan Dong\*, Olivia Chen, and Yanzhi Wang<br>
 *60th ACM/IEEE Design Automation Conference (DAC 2023)*
 
@@ -68,11 +81,7 @@ Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
 Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021)*
 
-[P2][HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression](https://arxiv.org/abs/2404.13372)<br>
-Lei Lu, **Yanyue Xie**, Wei Jiang, Wei Wang, Xue Lin, and Yanzhi Wang<br>
-*arXiv preprint arXiv:2404.13372*
-
-[P1][A Life-Cycle Energy and Inventory Analysis of Adiabatic Quantum-Flux-Parametron Circuits](https://arxiv.org/abs/2307.12216)<br>
+[P1] [A Life-Cycle Energy and Inventory Analysis of Adiabatic Quantum-Flux-Parametron Circuits](https://arxiv.org/abs/2307.12216)<br>
 Masoud Zabihi, **Yanyue Xie**, Zhengang Li, Peiyan Dong, Geng Yuan, Olivia Chen, Massoud Pedram, and Yanzhi Wang<br>
 *arXiv preprint arXiv:2307.12216*
 
