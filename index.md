@@ -14,7 +14,7 @@ Efficient learned image compression model
 ## Publications
 
 [C16] [LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference]()<br>
-**Yanyue Xie**, Zhengang Li, Dana Diaconu, Suranga Handagala, Miriam Leeser, Xue Lin<br>
+**Yanyue Xie**, Zhengang Li, Dana Diaconu, Suranga Handagala, Miriam Leeser, and Xue Lin<br>
 *ASPDAC 2025*
 
 [C15] [HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression](https://arxiv.org/abs/2404.13372)<br>
