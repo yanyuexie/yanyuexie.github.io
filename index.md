@@ -1,19 +1,18 @@
-Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include efficient deep learning (quantization and pruning), algorithm-hardware co-design, FPGAs, and electronic design automation.
+Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include efficient deep learning (pruning, quantization, and knowledge distillation), algorithm-hardware co-design, FPGAs, and electronic design automation.
 
 Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
 
 ## Experiences
 - ByteDance, CA, USA, 2024.05-2024.08<br>
-Research Intern in Seed Foundation Machine Learning System Team <br>
-Large language model pruning
+Research Scientist Intern in Seed Foundation Machine Learning System Team <br>Mixture-of-Experts large language model pruning and expert-wise knowledge distillation
 
 - Futurewei Technologies, CA, USA, 2023.05-2023.09<br>
-Research Intern in Strategy Technology Team<br>
-Efficient learned image compression model
+Research Scientist Intern in Strategy Technology Team<br>
+Efficient neural image compression model
 
 ## Publications
 
-[C16] [LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference]()<br>
+[C16] [LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference](https://drive.google.com/file/d/13jupbpepfdUfIPvZdUUz6vWHcARmBnBW/view?usp=drive_link)<br>
 **Yanyue Xie**, Zhengang Li, Dana Diaconu, Suranga Handagala, Miriam Leeser, and Xue Lin<br>
 *ASPDAC 2025*
 
