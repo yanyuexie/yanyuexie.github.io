@@ -4,13 +4,18 @@ Previously, I received my B.E. degree in microelectronic science and engineering
 
 ## Experiences
 - ByteDance, CA, USA, 2024.05-2024.08<br>
-Research Scientist Intern in Seed Foundation Machine Learning System Team <br>Mixture-of-Experts large language model pruning and expert-wise knowledge distillation
+Research Scientist Intern in Seed Foundation Machine Learning System Team<br>
+Mixture-of-Experts large language model pruning and expert-wise knowledge distillation
 
 - Futurewei Technologies, CA, USA, 2023.05-2023.09<br>
 Research Scientist Intern in Strategy Technology Team<br>
 Efficient neural image compression model
 
 ## Publications
+
+[C17] [MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router](https://arxiv.org/abs/2410.12013)<br>
+**Yanyue Xie**, Zhi Zhang, Ding Zhou, Cong Xie, Ziang Song, Xin Liu, Yanzhi Wang, Xue Lin, and An Xu<br>
+*Under Review*
 
 [C16] [LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference](https://drive.google.com/file/d/13jupbpepfdUfIPvZdUUz6vWHcARmBnBW/view?usp=drive_link)<br>
 **Yanyue Xie**, Zhengang Li, Dana Diaconu, Suranga Handagala, Miriam Leeser, and Xue Lin<br>
@@ -24,11 +29,11 @@ Lei Lu, **Yanyue Xie**, Wei Jiang, Wei Wang, Xue Lin, and Yanzhi Wang<br>
 Geng Yang, **Yanyue Xie**, Zhong Jia Xue, Sung-En Chang, Yanyu Li, Peiyan Dong, Jie Lei, Weiying Xie, Yanzhi Wang, Xue Lin, and Zhenman Fang <br>
 *FPL 2024*
 
-[C13] [Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers](https://www.sfu.ca/~zhenman/files/C36-ICS2024-Quasar-ViT.pdf)<br>
+[C13] [Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers](https://arxiv.org/abs/2407.18175)<br>
 Zhengang Li, Alec Lu, **Yanyue Xie**, Zhenglun Kong, Mengshu Sun, Hao Tang, Zhong Jia Xue, Peiyan Dong, Caiwen Ding, Yanzhi Wang, Xue Lin, and Zhenman Fang<br>
 *ICS 2024*
 
-[C12] [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://past.date-conference.com/proceedings-archive/2024/DATA/691_pdf_upload.pdf)<br>
+[C12] [SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits](https://arxiv.org/abs/2407.18209)<br>
 **Yanyue Xie**\*, Peiyan Dong\*, Geng Yuan, Zhengang Li, Masoud Zabihi, Chao Wu, Sung-En Chang, Xufeng Zhang, Xue Lin, Caiwen Ding, Nobuyuki Yoshikawa, Olivia Chen, and Yanzhi Wang<br>
 *DATE 2024*
 
@@ -60,7 +65,7 @@ Peiyan Dong, Mengshu Sun, Alec Lu, **Yanyue Xie**, Kenneth Liu, Zhenglun Kong, X
 Geng Yuan, Sung-En Chang, Qing Jin, Alec Lu, Yanyu Li, Yushu Wu, Zhenglun Kong, **Yanyue Xie**, Peiyan Dong, Minghai Qin, Xiaolong Ma, Xulong Tang, Zhenman Fang, and Yanzhi Wang<br>
 *ECCV 2022*
 
-[C4] [Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization](https://ieeexplore.ieee.org/document/10035108)<br>
+[C4] [Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization](https://arxiv.org/abs/2208.05163)<br>
 Zhengang Li, Mengshu Sun, Alec Lu, Haoyu Ma, Geng Yuan, **Yanyue Xie**, Hao Tang, Yanyu Li, Miriam Leeser, Zhangyang Wang, Xue Lin, and Zhenman Fang<br>
 *FPL 2022*
 
