@@ -81,6 +81,10 @@ Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu, and Yao
 Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen<br>
 *DAC 2020*
 
+[J3] [HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models](https://ieeexplore.ieee.org/document/10737419)<br>
+Xuan Shen, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, **Yanyue Xie**, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin, and Yanzhi Wang <br>
+*TCAD 2024*
+
 [J2] [Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints](https://ieeexplore.ieee.org/document/9647000)<br>
 Jianli Chen, Zhifeng Lin, **Yanyue Xie**, Wenxing Zhu, and Yao-Wen Chang <br>
 *TCAD 2021*
