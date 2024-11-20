@@ -17,7 +17,7 @@ Efficient neural image compression model
 **Yanyue Xie**, Zhi Zhang, Ding Zhou, Cong Xie, Ziang Song, Xin Liu, Yanzhi Wang, Xue Lin, and An Xu<br>
 *Under Review*
 
-[C16] [LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference](https://drive.google.com/file/d/13jupbpepfdUfIPvZdUUz6vWHcARmBnBW/view?usp=drive_link)<br>
+[C16] [LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference](https://arxiv.org/abs/2411.11852)<br>
 **Yanyue Xie**, Zhengang Li, Dana Diaconu, Suranga Handagala, Miriam Leeser, and Xue Lin<br>
 *ASPDAC 2025*
 
