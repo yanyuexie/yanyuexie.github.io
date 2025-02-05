@@ -41,7 +41,7 @@ Zhengang Li, Alec Lu, **Yanyue Xie**, Zhenglun Kong, Mengshu Sun, Hao Tang, Zhon
 Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Masoud Zabihi, **Yanyue Xie**, Peiyan Dong, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, and Olivia Chen<br>
 *MICRO 2023*
 
-[C10] [Machine Learning Across Network-Connected FPGAs](https://ieee-hpec.org/wp-content/uploads/2023/09/50.pdf)<br>
+[C10] [Machine Learning Across Network-Connected FPGAs](https://ieeexplore.ieee.org/document/10363454)<br>
 Dana Diaconu, **Yanyue Xie**, Mehmet Gungor, Suranga Handagala, Xue Lin, and Miriam Leeser<br>
 *HPEC 2023*
 
@@ -57,7 +57,7 @@ Sung-En Chang, Geng Yuan, Alec Lu, Mengshu Sun, Yanyu Li, Xiaolong Ma, Zhengang 
 Zhenglun Kong, Haoyu Ma, Geng Yuan, Mengshu Sun, **Yanyue Xie**, Peiyan Dong, Xin Meng, Xuan Shen, Hao Tang, Minghai Qin, Tianlong Chen, Xiaolong Ma, Xiaohui Xie, Zhangyang Wang, and Yanzhi Wang<br>
 *AAAI 2023*
 
-[C6] [HeatViT: Hardware-efficient adaptive token pruning for vision transformers](https://arxiv.org/abs/2211.08110)<br>
+[C6] [HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers](https://arxiv.org/abs/2211.08110)<br>
 Peiyan Dong, Mengshu Sun, Alec Lu, **Yanyue Xie**, Kenneth Liu, Zhenglun Kong, Xin Meng, Zhengang Li, Xue Lin, Zhenman Fang, and Yanzhi Wang<br>
 *HPCA 2023*
 
