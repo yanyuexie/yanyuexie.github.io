@@ -1,17 +1,32 @@
-Hi! I am currently a Ph.D. student at Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), starting from Fall 2020. My research interests include efficient deep learning (pruning, quantization, and knowledge distillation), algorithm-hardware co-design, FPGAs, and electronic design automation.
+Hi! I am a research scientist at ByteDance Seed working on machine learning systems.
 
-Previously, I received my B.E. degree in microelectronic science and engineering from Fudan University, in 2020. During my undergrad, I was fortunate to work with Prof. [Jianli Chen](https://sme.fudan.edu.cn/5f/c6/c31141a352198/page.htm).
+I received my Ph.D. degree in Computer Engineering from Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) in 2025, and my B.E. degree in Microelectronics from Fudan University in 2020.
 
 ## Experiences
-- ByteDance, CA, USA, 2024.05-2024.08<br>
-Research Scientist Intern in Seed Foundation Machine Learning System Team<br>
-Mixture-of-Experts large language model pruning and expert-wise knowledge distillation
 
-- Futurewei Technologies, CA, USA, 2023.05-2023.09<br>
-Research Scientist Intern in Strategy Technology Team<br>
-Efficient neural image compression model
+- ByteDance, 2025.08-present<br>
+Research Scientist in Seed Infrastructures Team
+
+- ByteDance, 2024.05-2024.08<br>
+Research Scientist Intern in Seed Foundation Machine Learning System Team
+
+- Futurewei Technologies,2023.05-2023.09<br>
+Research Scientist Intern in Strategy Technology Team
+
+## Awards
+
+DAC Young Fellow, Design Automation Conference, 2021<br>
+First Prize Scholarship, Fudan University, 2020
 
 ## Publications
+
+[C19] [DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance](https://arxiv.org/abs/2505.14708)<br>
+Xuan Shen, Chenxia Han, Yufa Zhou, **Yanyue Xie**, Yifan Gong, Quanyi Wang, Yiwei Wang, Yanzhi Wang, Pu Zhao, and Jiuxiang Gu<br>
+*Under Review*
+
+[C18] [FastCar: Cache Attentive Replay for Fast Auto-Regressive Video Generation on the Edge](https://arxiv.org/abs/2505.14709)<br>
+Xuan Shen, Weize Ma, Yufa Zhou, Enhao Tang, **Yanyue Xie**, Zhengang Li, Yifan Gong, Quanyi Wang, Henghui Ding, Yiwei Wang, Yanzhi Wang, Pu Zhao, Jun Lin, and Jiuxiang Gu<br>
+*Under Review*
 
 [C17] [MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router](https://arxiv.org/abs/2410.12013)<br>
 **Yanyue Xie**, Zhi Zhang, Ding Zhou, Cong Xie, Ziang Song, Xin Liu, Yanzhi Wang, Xue Lin, and An Xu<br>
@@ -81,6 +96,10 @@ Zhifeng Lin, **Yanyue Xie**, Gang Qian, Jianli Chen, Sifei Wang, Jun Yu, and Yao
 Zhifeng Lin, **Yanyue Xie**, Gang Qian, Sifei Wang, Jun Yu, and Jianli Chen<br>
 *DAC 2020*
 
+[J4] [An Analytical Timing-Driven Placer for Modern Heterogeneous FPGAs](https://doi.org/10.1007/s11227-024-06755-w)<br>
+Zhifeng Lin, Yilu Chen, **Yanyue Xie**, Chuandong Chen, Jun Yu, and Jianli Chen<br>
+*The Journal of Supercomputing*
+
 [J3] [HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models](https://ieeexplore.ieee.org/document/10737419)<br>
 Xuan Shen, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, **Yanyue Xie**, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin, and Yanzhi Wang <br>
 *TCAD 2024*
@@ -97,11 +116,6 @@ Zhifeng Lin, **Yanyue Xie**, Peng Zou, Sifei Wang, Jun Yu, and Jianli Chen<br>
 Masoud Zabihi, **Yanyue Xie**, Zhengang Li, Peiyan Dong, Geng Yuan, Olivia Chen, Massoud Pedram, and Yanzhi Wang<br>
 *arXiv preprint*
 
-## Awards
-
-DAC Young Fellow, Design Automation Conference, 2021<br>
-First Prize Scholarship, Fudan University, 2020
-
 
 
 <!-- __   __ __     __ __     __                _____  __     __   _  -->
@@ -111,7 +125,8 @@ First Prize Scholarship, Fudan University, 2020
 <!--  / . \     | |       | |      `.   .'    | |____     | | /|__| | -->
 <!-- /_/ \_\    |_|       |_|        `.'       \_____|    |_| \_____/ -->
 <!--
-  _    _          _____  _______     __  ____ _____ _____ _______ _    _ _____      __     ___
+
+_    _          _____  _______     __  ____ _____ _____ _______ _    _ _____      __     ___
  | |  | |   /\   |  __ \|  __ \ \   / / |  _ \_   _|  __ \__   __| |  | |  __ \   /\\ \   / / |
  | |__| |  /  \  | |__) | |__) \ \_/ /  | |_) || | | |__) | | |  | |__| | |  | | /  \\ \_/ /| |
  |  __  | / /\ \ |  ___/|  ___/ \   /   |  _ < | | |  _  /  | |  |  __  | |  | |/ /\ \\   / | |
