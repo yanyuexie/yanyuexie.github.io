@@ -10,7 +10,7 @@ Research Scientist in Seed Infrastructures Team
 - ByteDance, 2024.05-2024.08<br>
 Research Scientist Intern in Seed Foundation Machine Learning System Team
 
-- Futurewei Technologies,2023.05-2023.09<br>
+- Futurewei Technologies, 2023.05-2023.09<br>
 Research Scientist Intern in Strategy Technology Team
 
 ## Awards
