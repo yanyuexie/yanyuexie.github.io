@@ -1,6 +1,6 @@
-Hi! I am a research scientist at ByteDance Seed working on machine learning systems.
+Hi! I am a research scientist at ByteDance Seed working on AI training infra.
 
-I received my Ph.D. degree in Computer Engineering from Northeastern University, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) in 2025, and my B.E. degree in Microelectronics from Fudan University in 2020.
+I received my Ph.D. degree in Computer Engineering from Northeastern University in 2025, advised by Prof. [Xue (Shelley) Lin](https://coe.northeastern.edu/people/lin-xue/) and Prof. [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), and my B.E. degree in Microelectronics from Fudan University in 2020.
 
 ## Experiences
 
